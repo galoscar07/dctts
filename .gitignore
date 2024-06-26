@@ -26,6 +26,10 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+LJSpeech-1.1/
+.DS_Store
+.idea
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
